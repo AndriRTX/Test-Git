@@ -1,2 +1,2 @@
 # Test-Git
-Repository ini dugunakan untuk testing git dan pembelajaran git
+Repository ini digunakan untuk testing git dan pembelajaran git
